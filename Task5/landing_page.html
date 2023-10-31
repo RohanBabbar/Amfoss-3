@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagine Dragons</title>
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+            background-image: url(assets/backdrop.png);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            
+        }
+        nav{
+            background-color:rgb(51,51,51,0.75); 
+            max-height: 60px;
+            
+        }
+        nav .ul1{
+            list-style-type: none;
+            margin: 0px;
+            padding: 0;
+        }
+        nav .ul2{
+            list-style-type: none;
+            margin: 0px;
+            float: right;
+            padding: 0;
+            position:relative;
+            bottom:40px;
+            left:10px;
+        }
+        li{
+            display: inline;
+            margin-right: 20px; 
+        }
+        .im1{
+            padding: 0 30px;
+        }
+        .name{
+            /* display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-left: 50px;
+            margin-top: 500px; */
+
+            /* position: absolute;
+            bottom: 8px;
+            left: 16px;
+            font-size: 18px; */
+
+            position: absolute;
+            top: 76%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        .explore-button {
+            background-color: rgb(0,206,209);
+            font-size: large;
+            color: black;
+            font-weight: bold;
+            padding: 10px 40px 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.01s ease-in-out;
+            background-image: url(assets/arrow-next.png);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: right center;
+            background-size: 40px;
+
+            position: absolute;
+            top: 85%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        .explore-button:hover {
+            background-color: lightseagreen;
+        }
+        .explore-button:active {
+            background-color: rgb(64,224,208);
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <ul class="ul1">
+            <li><a class="home" href="landing_page.html"><img class="im1"src="assets/navbar/logo.png"></a></li>
+        </ul>
+        <ul class="ul2">
+            <li><a class="home" href="https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"target="_blank"><img src="assets/navbar/spotify.png"></a></li>
+            <li><a class="home" href="https://www.youtube.com/channel/UCT9zcQNlyht7fRlcjmflRSA" target="_blank"><img src="assets/navbar/youtube.png"></a></li>
+            <li><a class="home" href="https://twitter.com/Imaginedragons?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"><img src="assets/navbar/twitter.png"></a></li>
+            <li><a class="home" href="https://www.instagram.com/imaginedragons/?hl=en" target="_blank"><img src="assets/navbar/instagram.png"></a></li>
+        </ul>
+    </nav>
+    <div class="name">
+        <img src="assets/id_text.png">
+    </div>
+
+    <button class="explore-button" id="exploreButton" onclick = "window.location.href='shop.html'">Explore Shop</button>
+
+    
+</body>
+</html>

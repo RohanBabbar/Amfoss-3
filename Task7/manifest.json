@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "Weather Update",
+    "version": "0.0.1",
+    "description": "Get Updated with the current Weather.",
+    "permissions": [
+      "activeTab",
+      "storage"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "19": "icon.png",
+        "48": "logo.png",
+        "128": "icon_128.png"
+      }
+    },
+    "icons": {
+      "19": "icon.png",
+      "48": "logo.png",
+      "128": "icon_128.png"
+    },
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "js": ["code.js"]
+        }
+      ]
+  }
+  
