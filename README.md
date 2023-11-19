@@ -1,7 +1,7 @@
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
 | [Task-00](https://github.com/RohanBabbar/Amfoss-3/tree/main/task-0)   | Installing Ubuntu | Completed |
-| [Task-01](https://github.com/RohanBabbar/amfoss-tasks/tree/main/task-01)   | Terminal Wizard	 | Completed |
+| [Task-01](https://github.com/RohanBabbar/Amfoss-3/tree/main/task-01)   | Terminal Wizard	 | Completed |
 | [Task-02](https://github.com/RohanBabbar/amfoss-tasks/tree/main/task-02)   | Lessgo Hugo | Not Attempted |
 | [Task-03](https://github.com/RohanBabbar/amfoss-tasks/tree/main/task-03)  | Hello, World! | Completed |
 | [Task-04](https://github.com/RohanBabbar/amfoss-tasks/tree/main/task-04)   | Competitive Programming | Completed |
