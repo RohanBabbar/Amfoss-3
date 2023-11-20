@@ -8,9 +8,8 @@ from discord.ext import commands
 import csv
 intents = Intents.default()
 intents.message_content = True
-# intents.message_reactions = True
 
-bot = commands.Bot(command_prefix='/', intents=intents)  # You can set your desired command prefix
+bot = commands.Bot(command_prefix='/', intents=intents)  
 
 def scrape_cricket_scores():
     csv_file = "cricket_scores.csv"
@@ -108,10 +107,7 @@ def get_response(message: str) -> str:
 
     if p_message == "/livescore":
         return formatted_result
-    # if p_message == "/generate":
-    #     return "cricket_scores.csv"
-        # with open("cricket_scores.csv", 'rb') as file:
-        #     await message.author.send(file=discord.File(file, "cricket_scores.csv"))
-    if p_message == "roll":
-        return str(random.randint(1,6))
+    if p_message == "/generate":
+        return scrape_cricket_scores()
+    
     return 'Try again '
