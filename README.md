@@ -1,3 +1,13 @@
+# Introduction
+
+Hello, I am Rohan, currently pursuing Computer Science specialised in Artificial Intelligence at Amrita Vishwa Vidyapeetham, Amritapuri.  
+In my quest for academic adventure, I intentionally sought a college beyond the familiar bounds of my hometown. Armed with a commendable rank in the entrance exam, I chose this institution, drawn by its promising opportunities and the prospect of an enriching learning experience.
+In my previous attempt to join the club, I was able to attempt most of the tasks, but I couldn't complete them according to the requirements. Consequently, I did not receive an interview opportunity.
+I had no intention of giving up, as I used this setback as an opportunity to sharpen my skills and took on beginner-friendly projects in web development.
+the end goal is acquiring the necessary skills to actively to contribute to organizations that can bring a real positive change in the future.
+
+# Tasks Status
+
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
 | [Task-00]   | Installing Ubuntu | Completed |
