@@ -17,7 +17,7 @@ the end goal is acquiring the necessary skills to actively to contribute to orga
 | [Task-04](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task4)   | Competitive Programming | Attempted |
 | [Task-05](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task5)   | Hypertext Mockup Language	| Completed |
 | [Task-06](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task6)   | Cricket Vault | Completed |
-| [Task-07](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task7)   | AK-47℃ | Completed  Week 1|
+| [Task-07](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task7)   | AK-47℃ | Completed |
 | [Task-08](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task8)   | Poke-Search! | Completed  |
 | [Task-09](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task9)   | GeoQuest | Completed  |
 | [Task-13](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task13)   | Vim | Completed  |
