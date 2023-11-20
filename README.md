@@ -10,3 +10,6 @@
 | [Task-07](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task7)   | AK-47℃ | Completed  Week 1|
 | [Task-08](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task8)   | Poke-Search! | Completed  |
 | [Task-09](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task9)   | GeoQuest | Completed  |
+| [Task-13](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task13)   | Vim | Completed  |
+| [Task-13](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task14)   | Bandit | Completed  |
+| [Task-13](https://github.com/RohanBabbar/Amfoss-3/tree/main/Task15)   | Project Euler	 | Attempted  |
